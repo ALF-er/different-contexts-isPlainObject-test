@@ -1,0 +1,6 @@
+dist/
+html/
+node_modules/
+specification/
+.npmrc
+.vscode/
